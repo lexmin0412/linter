@@ -10,8 +10,10 @@ importers:
 
   packages/eslint-config-react:
     specifiers:
+      '@lexmin0412/eslint-config-vanilla': workspace:*
       eslint-plugin-react: ^7.32.2
     dependencies:
+      '@lexmin0412/eslint-config-vanilla': link:../eslint-config-vanilla
       eslint-plugin-react: 7.32.2
 
   packages/eslint-config-typescript:
