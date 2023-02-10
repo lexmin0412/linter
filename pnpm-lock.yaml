@@ -32,8 +32,10 @@ importers:
 
   packages/eslint-config-vue:
     specifiers:
+      '@lexmin0412/eslint-config-vanilla': workspace:*
       eslint-plugin-vue: ^9.9.0
     dependencies:
+      '@lexmin0412/eslint-config-vanilla': link:../eslint-config-vanilla
       eslint-plugin-vue: 9.9.0
 
 packages:
