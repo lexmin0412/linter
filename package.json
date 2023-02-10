@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/lexmin0412/linter/issues"
   },
-  "homepage": "https://github.com/lexmin0412/linter#readme"
+  "homepage": "https://github.com/lexmin0412/linter#readme",
+  "devDependencies": {
+    "@changesets/cli": "^2.26.0"
+  }
 }
