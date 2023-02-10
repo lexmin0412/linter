@@ -1,6 +1,6 @@
 {
   "name": "@lexmin0412/eslint-config-typescript",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -8,6 +8,11 @@
   },
   "keywords": [],
   "author": "lexmin0412 <zhangle_dev@outlook.com>",
+	"files": [
+		"package.json",
+		"pnpm-lock.yaml",
+		"index.js"
+	],
   "publishConfig": {
     "registry": "https://registry.npmjs.org/",
     "access": "public",
