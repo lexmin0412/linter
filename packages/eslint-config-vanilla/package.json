@@ -1,0 +1,20 @@
+{
+  "name": "@lexmin0412/eslint-config-vanilla",
+  "version": "0.0.1",
+  "description": "eslint 原生 javascript 配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lexmin0412 <zhangle_dev@outlook.com>",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+		"access": "public",
+		"tag": "latest"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^8.33.0"
+  }
+}
