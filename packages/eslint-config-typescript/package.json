@@ -1,0 +1,21 @@
+{
+  "name": "@lexmin0412/eslint-config-typescript",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lexmin0412 <zhangle_dev@outlook.com>",
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public",
+    "tag": "latest"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "@lexmin0412/eslint-config-vanilla": "workspace:*",
+    "@typescript-eslint/eslint-plugin": "^5.51.0"
+  }
+}
