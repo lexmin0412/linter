@@ -8,14 +8,19 @@
   },
   "keywords": [],
   "author": "lexmin0412 <zhangle_dev@outlook.com>",
-	"files": [
-		"package.json",
-		"pnpm-lock.yaml",
-		"index.js"
-	],
+  "files": [
+    "package.json",
+    "pnpm-lock.yaml",
+    "index.js"
+  ],
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public",
+    "tag": "latest"
+  },
   "license": "ISC",
   "dependencies": {
     "eslint-plugin-react": "^7.32.2",
-		"@lexmin0412/eslint-config-vanilla": "workspace:*"
+    "@lexmin0412/eslint-config-vanilla": "workspace:*"
   }
 }
