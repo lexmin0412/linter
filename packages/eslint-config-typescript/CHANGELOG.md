@@ -1,5 +1,13 @@
 # @lexmin0412/eslint-config-typescript
 
+## 0.0.6
+
+### Patch Changes
+
+- ed452c4: add commitlint-plugin-standard package
+- Updated dependencies [ed452c4]
+  - @lexmin0412/eslint-config-vanilla@0.0.6
+
 ## 0.0.5
 
 ### Patch Changes

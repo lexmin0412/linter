@@ -1,5 +1,11 @@
 # @lexmin0412/commitlint-plugin-standard
 
+## 0.0.6
+
+### Patch Changes
+
+- ed452c4: add commitlint-plugin-standard package
+
 ## 0.0.5
 
 ### Patch Changes
