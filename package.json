@@ -1,13 +1,14 @@
 {
   "name": "@lexmin0412/linter",
   "version": "0.0.1",
-	"private": true,
+  "private": true,
   "description": "",
   "main": "index.js",
   "scripts": {
+    "prepare": "husky install",
     "test": "echo \"Error: no test specified\" && exit 1",
-		"changelog": "pnpm changeset add",
-		"ci:version": "pnpm changeset version --yes",
+    "changelog": "pnpm changeset add",
+    "ci:version": "pnpm changeset version --yes",
     "ci:publish": "changeset publish"
   },
   "repository": {
@@ -22,6 +23,10 @@
   },
   "homepage": "https://github.com/lexmin0412/linter#readme",
   "devDependencies": {
-    "@changesets/cli": "^2.26.0"
+    "@changesets/cli": "^2.26.0",
+    "@commitlint/cli": "^17.4.2",
+    "@commitlint/types": "^17.4.0",
+    "@lexmin0412/commitlint-plugin-standard": "workspace:*",
+    "husky": "^8.0.3"
   }
 }
