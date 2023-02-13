@@ -1,5 +1,13 @@
 # @lexmin0412/eslint-config-typescript
 
+## 0.0.4
+
+### Patch Changes
+
+- test publish
+- Updated dependencies
+  - @lexmin0412/eslint-config-vanilla@0.0.4
+
 ## 0.0.3
 
 ### Patch Changes

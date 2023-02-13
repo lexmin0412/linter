@@ -1,6 +1,6 @@
 {
   "name": "@lexmin0412/prettier-config-base",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "prettier 基础配置",
   "main": "index.js",
   "scripts": {

@@ -1,5 +1,11 @@
 # @lexmin0412/eslint-config-vanilla
 
+## 0.0.4
+
+### Patch Changes
+
+- test publish
+
 ## 0.0.3
 
 ### Patch Changes
