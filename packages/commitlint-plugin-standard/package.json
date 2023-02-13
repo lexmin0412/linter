@@ -1,0 +1,15 @@
+{
+  "name": "@lexmin0412/commitlint-plugin-standard",
+  "version": "0.0.5",
+  "description": "commitlint 标准配置",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "lexmin0412 <zhangle_dev@outlook.com>",
+  "license": "ISC",
+  "dependencies": {
+    "@commitlint/config-conventional": "^17.4.2"
+  }
+}

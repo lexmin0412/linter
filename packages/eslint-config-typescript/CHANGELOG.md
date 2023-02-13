@@ -1,5 +1,15 @@
 # @lexmin0412/eslint-config-typescript
 
+## 0.0.5
+
+### Patch Changes
+
+- da04c25: chore: release v0.0.4
+- 6c05ec8: update changeset config
+- Updated dependencies [da04c25]
+- Updated dependencies [6c05ec8]
+  - @lexmin0412/eslint-config-vanilla@0.0.5
+
 ## 0.0.4
 
 ### Patch Changes
