@@ -1,5 +1,11 @@
 # @lexmin0412/commitlint-plugin-standard
 
+## 0.0.7
+
+### Patch Changes
+
+- 24894ca: feat: add stylelint-config-standard pacakge
+
 ## 0.0.6
 
 ### Patch Changes

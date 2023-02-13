@@ -1,6 +1,6 @@
 {
   "name": "@lexmin0412/eslint-config-typescript",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "eslint typescript 配置",
   "main": "index.js",
   "scripts": {
