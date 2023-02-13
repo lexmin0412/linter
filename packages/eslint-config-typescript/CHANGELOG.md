@@ -1,5 +1,13 @@
 # @lexmin0412/eslint-config-typescript
 
+## 0.0.7
+
+### Patch Changes
+
+- 24894ca: feat: add stylelint-config-standard pacakge
+- Updated dependencies [24894ca]
+  - @lexmin0412/eslint-config-vanilla@0.0.7
+
 ## 0.0.6
 
 ### Patch Changes
