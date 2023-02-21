@@ -1,6 +1,6 @@
 {
   "name": "@lexmin0412/commitlint-plugin-standard",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "description": "commitlint 标准配置",
   "main": "index.js",
   "scripts": {
