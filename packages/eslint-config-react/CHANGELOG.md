@@ -1,5 +1,13 @@
 # @lexmin0412/eslint-config-react
 
+## 0.0.8
+
+### Patch Changes
+
+- 3805af7: test: publish empty change
+- Updated dependencies [3805af7]
+  - @lexmin0412/eslint-config-vanilla@0.0.8
+
 ## 0.0.7
 
 ### Patch Changes
