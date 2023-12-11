@@ -1,6 +1,6 @@
 {
   "name": "@lexmin0412/stylelint-config-standard",
-  "version": "0.0.8",
+  "version": "0.0.9",
   "description": "stylelint 基础配置",
   "main": "index.js",
   "scripts": {

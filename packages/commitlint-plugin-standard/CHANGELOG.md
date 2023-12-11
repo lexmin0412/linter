@@ -1,5 +1,11 @@
 # @lexmin0412/commitlint-plugin-standard
 
+## 0.0.9
+
+### Patch Changes
+
+- 680772b: chore(prettier-config-base): add @trivago/prettier-plugin-sort-imports integration.
+
 ## 0.0.8
 
 ### Patch Changes

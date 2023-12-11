@@ -1,5 +1,13 @@
 # @lexmin0412/eslint-config-react
 
+## 0.0.9
+
+### Patch Changes
+
+- 680772b: chore(prettier-config-base): add @trivago/prettier-plugin-sort-imports integration.
+- Updated dependencies [680772b]
+  - @lexmin0412/eslint-config-vanilla@0.0.9
+
 ## 0.0.8
 
 ### Patch Changes
