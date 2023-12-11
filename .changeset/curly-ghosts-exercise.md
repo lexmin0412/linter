@@ -8,4 +8,4 @@
 "@lexmin0412/stylelint-config-standard": patch
 ---
 
-upgrade ci workflow
+chore(prettier-config-base): add @trivago/prettier-plugin-sort-imports integration.
