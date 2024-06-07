@@ -21,6 +21,7 @@
   "license": "ISC",
   "dependencies": {
     "eslint-plugin-react": "^7.32.2",
-    "@lexmin0412/eslint-config-vanilla": "workspace:*"
+    "@lexmin0412/eslint-config-vanilla": "workspace:*",
+    "@lexmin0412/linter-shared": "workspace:*"
   }
 }

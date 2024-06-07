@@ -1,0 +1,17 @@
+{
+  "name": "@lexmin0412/linter-shared",
+  "version": "0.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "publishConfig": {
+    "registry": "https://registry.npmjs.org/",
+    "access": "public",
+    "tag": "latest"
+  },
+  "keywords": [],
+  "author": "lexmin0412 <zhangle_dev@outlook.com>",
+  "license": "ISC"
+}
