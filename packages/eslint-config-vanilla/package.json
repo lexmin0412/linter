@@ -20,6 +20,7 @@
   },
   "license": "ISC",
   "dependencies": {
+    "@lexmin0412/linter-shared": "workspace:^",
     "eslint": "^8.33.0"
   }
 }
