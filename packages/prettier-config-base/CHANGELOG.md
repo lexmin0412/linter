@@ -1,5 +1,11 @@
 # @lexmin0412/prettier-config-base
 
+## 0.0.10
+
+### Patch Changes
+
+- 5eac160: v0.1.0
+
 ## 0.0.9
 
 ### Patch Changes

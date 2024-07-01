@@ -1,6 +1,6 @@
 {
   "name": "@lexmin0412/eslint-config-vue",
-  "version": "0.0.9",
+  "version": "0.0.10",
   "description": "eslint vue 配置",
   "main": "index.js",
   "scripts": {
