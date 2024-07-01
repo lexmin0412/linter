@@ -2,7 +2,7 @@
   "name": "@lexmin0412/prettier-config-base",
   "version": "0.0.10",
   "description": "prettier 基础配置",
-  "main": "index.js",
+  "main": "config.json",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
