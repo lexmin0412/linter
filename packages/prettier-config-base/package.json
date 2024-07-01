@@ -18,5 +18,8 @@
     "access": "public",
     "tag": "latest"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@trivago/prettier-plugin-sort-imports": "^4.3.0"
+  }
 }
