@@ -1,5 +1,14 @@
 # @lexmin0412/eslint-config-react
 
+## 0.0.10
+
+### Patch Changes
+
+- 5eac160: v0.1.0
+- Updated dependencies [5eac160]
+  - @lexmin0412/eslint-config-vanilla@0.0.10
+  - @lexmin0412/linter-shared@0.0.10
+
 ## 0.0.9
 
 ### Patch Changes
