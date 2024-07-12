@@ -2,7 +2,7 @@
   "name": "@lexmin0412/linter",
   "version": "0.0.1",
   "private": true,
-  "description": "",
+  "description": "代码规范 All in One 工具，你想要的一切都在这里了。",
   "main": "index.js",
   "scripts": {
     "prepare": "husky install",
@@ -27,6 +27,11 @@
     "@commitlint/cli": "^17.4.2",
     "@commitlint/types": "^17.4.0",
     "@lexmin0412/commitlint-plugin-standard": "workspace:*",
+    "@readue/block-base_info": "^0.4.1",
+    "@readue/block-packages": "^0.4.1",
+    "@readue/block-star_history": "^0.4.1",
+    "@readue/block-tree": "^0.4.1",
+    "@readue/cli": "^0.4.1",
     "husky": "^8.0.3"
   },
   "packageManager": "pnpm@8.15.6+sha512.77b89e9be77a2b06ad8f403a19cae5e22976f61023f98ad323d5c30194958ebc02ee0a6ae5d13ee454f6134e4e8caf29a05f0b1a0e1d2b17bca6b6a1f1159f86"
